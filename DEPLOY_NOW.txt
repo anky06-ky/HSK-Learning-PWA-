@@ -1,0 +1,34 @@
+═══════════════════════════════════════════════════════════
+  HƯỚNG DẪN DEPLOY NGAY - CHỈ 2 PHÚT
+═══════════════════════════════════════════════════════════
+
+✅ ĐÃ BUILD XONG!
+   Thư mục: dist/
+   
+🚀 CÁCH NHANH NHẤT:
+
+1. VÀO: https://vercel.com
+2. ĐĂNG KÝ/ĐĂNG NHẬP (miễn phí)
+3. KÉO THẢ thư mục "dist" vào Vercel
+4. XONG! 🎉
+
+Hoặc:
+
+1. VÀO: https://app.netlify.com  
+2. ĐĂNG KÝ/ĐĂNG NHẬP (miễn phí)
+3. KÉO THẢ thư mục "dist" vào Netlify
+4. XONG! 🎉
+
+═══════════════════════════════════════════════════════════
+
+Sau khi deploy, bạn sẽ có link như:
+https://your-app.vercel.app
+hoặc
+https://your-app.netlify.app
+
+Share link này cho mọi người là xong!
+
+═══════════════════════════════════════════════════════════
+
+Xem chi tiết trong file: DEPLOY_SIMPLE.md
+
