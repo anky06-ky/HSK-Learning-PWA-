@@ -1,6 +1,11 @@
 # HSK Learning PWA
 
+[![GitHub](https://img.shields.io/badge/GitHub-anky06--ky-blue?style=flat&logo=github)](https://github.com/anky06-ky/HSK-Learning-PWA-)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Ứng dụng học tiếng Trung HSK 1-4 dưới dạng Progressive Web App (PWA), hoạt động 100% offline.
+
+**🔗 Repository:** https://github.com/anky06-ky/HSK-Learning-PWA-
 
 ## 🚀 Tính năng
 
@@ -15,13 +20,24 @@
 
 ## 🚀 DEPLOY NGAY (2 PHÚT)
 
-**✅ Đã build xong trong thư mục `dist/`!**
+### Option 1: Vercel (Khuyến nghị - Tự động từ GitHub)
+1. Vào https://vercel.com
+2. Đăng nhập bằng GitHub
+3. Import repository: `anky06-ky/HSK-Learning-PWA-`
+4. Vercel tự động detect và deploy! 🎉
 
-### Cách nhanh nhất:
-1. Vào https://vercel.com hoặc https://app.netlify.com
-2. Đăng ký/Đăng nhập (miễn phí)
-3. **Kéo thả thư mục `dist/` vào trang web**
-4. Xong! 🎉
+### Option 2: Netlify
+1. Vào https://app.netlify.com
+2. Đăng nhập bằng GitHub
+3. Import repository: `anky06-ky/HSK-Learning-PWA-`
+4. Build command: `npm run build`
+5. Publish directory: `dist`
+6. Deploy! 🎉
+
+### Option 3: GitHub Pages
+1. Vào Settings > Pages trong repository
+2. Source: `gh-pages` branch (sau khi chạy workflow)
+3. Hoặc dùng GitHub Actions workflow đã có sẵn
 
 Xem chi tiết: `DEPLOY_SIMPLE.md` hoặc `DEPLOY_NOW.txt`
 
